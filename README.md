@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, as well as MERN**
 
-- 👯 I’m looking to collaborate on **Cloud, Fullstack, and bot related projects**
+- 👯 I’m looking to collaborate on **AWS, Fullstack, and bot related projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HumzaTAhmad?tab=repositories](https://github.com/HumzaTAhmad?tab=repositories)
 
