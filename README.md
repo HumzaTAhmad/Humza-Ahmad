@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [DiscoBall, an interactive discord bot](https://github.com/HumzaTAhmad/disco-ball)
 
-- 🌱 I’m currently learning **JavaScript and NodeJs**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **AWS, Fullstack, and bot related projects**
 
