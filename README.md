@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Valo-Site, a video game stat tracker for the videogame Valorant](https://github.com/HumzaTAhmad/disco-ball)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **the MERN stack**
 
 - 👯 I’m looking to collaborate on **AWS, Fullstack, and bot related projects**
 
