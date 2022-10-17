@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Humza Ahmad</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently working on [DiscoBall, an interactive discord bot](https://github.com/HumzaTAhmad/disco-ball)
+- 🔭 I’m currently working on [Valo-Site, a video game stat tracker for the videogame Valorant](https://github.com/HumzaTAhmad/disco-ball)
 
 - 🌱 I’m currently learning **JavaScript**
 
