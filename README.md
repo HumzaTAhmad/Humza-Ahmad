@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **humza.tanvir.ahmad@gmail.com**
 
-- ⚡ Fun fact **I love playing Kickboxing**
+- ⚡ Fun fact **I love Kickboxing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
