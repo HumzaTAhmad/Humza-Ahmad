@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Humza Ahmad</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently working on [Valo-Site, a video game stat tracker for the videogame Valorant](https://github.com/HumzaTAhmad/disco-ball)
+- 🔭 I’m currently working on [The Kubernetes Resume Challenge](https://github.com/HumzaTAhmad/disco-ball)
 
-- 🌱 I’m currently learning **the MERN stack**
-
-- 👯 I’m looking to collaborate on **AWS, Fullstack, and bot related projects**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HumzaTAhmad?tab=repositories](https://github.com/HumzaTAhmad?tab=repositories)
 
-- 💬 Ask me about **Java, Python, HTML/CSS, and AWS**
+- 💬 Ask me about **Java, Python, AWS, Terraform, Docker, and Security related questions**
 
 - 📫 How to reach me **humza.tanvir.ahmad@gmail.com**
 
