@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Humza Ahmad</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently working on [The Kubernetes Resume Challenge](https://github.com/HumzaTAhmad/disco-ball)
+- 🔭 I’m currently working on [The Kubernetes Resume Challenge]
 
 - 🌱 I’m currently learning **Kubernetes**
 
