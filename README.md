@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **humza.tanvir.ahmad@gmail.com**
 
-- ⚡ Fun fact **I love Kickboxing**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/humza ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="humza ahmad" height="30" width="40" /></a>
